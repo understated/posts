@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://understated.github.io//github/sitemap.xml 
+Sitemap: http://understated.github.io/posts/sitemap.xml 

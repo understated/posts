@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://understated.github.io//github/atom.xml" rel="self"/>
-  <link href="http://understated.github.io//github/"/>
-  <updated>2014-01-29T00:55:34-05:00</updated>
-  <id>http://understated.github.io//github/</id>
+  <title><![CDATA[Seth Walker]]></title>
+  <link href="http://understated.github.io/posts/atom.xml" rel="self"/>
+  <link href="http://understated.github.io/posts/"/>
+  <updated>2014-01-29T01:00:49-05:00</updated>
+  <id>http://understated.github.io/posts/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Seth Walker]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
